@@ -40,14 +40,15 @@ Choosing the right version:
 * Lubuntu 10.04, Release Notes, Downloads
 
 ## lubuntu for Very Old Computers
-* [Installation through Advanced Methods](https://wiki.ubuntu.com/Lubuntu/AdvancedMethods)
 
-# Lubuntu compared to other systems
+[Installation through Advanced Methods](https://wiki.ubuntu.com/Lubuntu/AdvancedMethods)
 
-## Lubuntu vs Ubuntu
+# lubuntu compared to other systems
+
+## lubuntu vs Ubuntu
 
 https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu
 
-## Lubuntu vs Windows
+## lubuntu vs Windows
 
 https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Windows_7
