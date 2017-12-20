@@ -1,12 +1,11 @@
 # docs.lubuntu.net
 
+## About lubuntu
+Lubuntu is a fast and lightweight operating system. The core of the system is based on Linux and Ubuntu. Lubuntu uses the minimal desktop LXDE, and a selection of light applications. It focuses on speed and energy-efficiency. Because of this, Lubuntu has very low hardware requirements.
+
 ## System Requirements
 In tests is was shown that lubuntu until version 16.10 can be installed on a Pentium II or Celeron system with With 256MB RAM to have usable system. With 512MB of RAM, you don't need to worry much.
 The recommend "Desktop" installer after version 17.04 is 1 GB of RAM. For PCs with less resources, please try the alternative installer.
-
-## Installation
-
-[Installation Instructions for lubuntu](/installation)
 
 ## Applications in lubuntu
 
@@ -21,6 +20,10 @@ Choosing the right version:
 * PowerPC version for Apple Macintosh G3/G4/G5 and IBM OpenPower, please choose Long Term Support (LTS) version below. 
 * Mac64 version for Intel Macs, 2006 and beyond, please use the 64-bit version.
 * For low-RAM (less than 700 MB) PCs use the Alternate versions with a smaller set of applications.
+
+## Installation
+
+[Installation Instructions for lubuntu](/installation)
 
 ## Version
 [Download Page at Ubuntu](http://cdimage.ubuntu.com/lubuntu/releases/)
@@ -52,6 +55,12 @@ https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu
 ## lubuntu vs Windows
 
 https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Windows_7
+
+# Links
+
+* Website: https://lubuntu.net
+* Ubuntu: https://ubuntu.com
+* Linux: https://linux.com
 
 # License
 
