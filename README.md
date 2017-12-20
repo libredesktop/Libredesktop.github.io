@@ -10,15 +10,15 @@ In tests it has been shown that lubuntu until version 16.04 can be installed on 
 
 [Installed Tools](https://help.ubuntu.com/community/Lubuntu/Setup#Installed_Tools) and [Applications in lubuntu.](https://help.ubuntu.com/community/Lubuntu/Setup#Applications)
 
-## lubuntu Releases
+## Current lubuntu Releases
 
 Choosing the right version:
 
 * 64-bit version suitable for PCs with Intel or AMD chip.
 * 32-bit version, for most PCs older than 2007.
-* PowerPC version for Apple Macintosh G3/G4/G5 and IBM OpenPower, please choose Long Term Support (LTS) version below. 
+* PowerPC version for Apple Macintosh G3/G4/G5 and IBM OpenPower, please choose Long Term Support (LTS) version. 
 * Mac64 version for Intel Macs, 2006 and beyond, please use the 64-bit version.
-* For low-RAM (less than 700 MB) PCs use the Alternate versions with a smaller set of applications.
+* For low-RAM (less than 700 MB) PCs use the alternate versions with a smaller set of applications.
 
 ## Installation
 
