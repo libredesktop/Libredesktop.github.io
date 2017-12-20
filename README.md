@@ -8,7 +8,7 @@ In tests it has been shown that lubuntu until version 16.04 can be installed on 
 
 ## Applications in lubuntu
 
-[Installed Tools](https://help.ubuntu.com/community/Lubuntu/Setup#Installed_Tools) and [Applications in lubuntu.](https://help.ubuntu.com/community/Lubuntu/Setup#Applications)
+lubuntu is a full-featured desktop, that includes a selection of lightweight tools and applications. Here are links with details and the list of [Installed Tools](https://help.ubuntu.com/community/Lubuntu/Setup#Installed_Tools) and [Applications in lubuntu.](https://help.ubuntu.com/community/Lubuntu/Setup#Applications)
 
 ## Current lubuntu Releases
 
