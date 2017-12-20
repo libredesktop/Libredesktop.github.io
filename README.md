@@ -26,7 +26,7 @@ Choosing the right version:
 [Installation Instructions for lubuntu](/installation)
 
 ## Version
-[Download Page at Ubuntu](http://cdimage.ubuntu.com/lubuntu/releases/)
+[Download Page at Ubuntu.com](http://cdimage.ubuntu.com/lubuntu/releases/)
 * Lubuntu 17.10, Release Notes, Downloads
 * Lubuntu 17.04, Release Notes, Downloads
 * Lubuntu 16.10, Release Notes, Downloads
