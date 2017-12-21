@@ -6,26 +6,12 @@ How does lubuntu compare to Windows?
 
 What are the hardware requirements of lubuntu compared to Windows?
 
-These are the minimum hardware requirements in order to run Windows 7:
-
-1.    1 GHz processor or faster, 32 or 64 bit;
-2.    1 GB of RAM for the 32 bits version, or at least 2 for the 64 bit version;
-3.    16 GB of hard drive (32 bit) or 20 GB (64 bit);
-4.    Graphics card that supports DirectX 9 with WDDM 1.0 controler or superior 
-
-For comparison, here are the minimum supported requirements of Lubuntu:
-
-1.    266 MHz processor;
-2.    128 MB;
-3.    3 GB hard drive;
-4.    no fancy graphics 
-
-A more usable system would have:
-
-1.    512 MHz processor or faster, 32 or 64 bit;
-2.    512 MB of RAM;
-3.    6 GB hard drive;
-4.    no fancy graphics 
+| Requirements  |                                  Windows                                  |  Lubuntu(Minimal) |            Lubuntu(Recommended)           |
+|---------------|:-------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------:|
+|   Processor   |                  1 GHz processor or faster, 32 or 64 bit                  | 266 MHz processor | 512 MHz processor or faster, 32 or 64 bit |
+|      RAM      | 1 GB of RAM for the 32 bits version, or at least 2 for the 64 bit version |       128 MB      |               512 MB of RAM               |
+|   Hard Drive  |               16 GB of hard drive (32 bit) or 20 GB (64 bit)              |  3 GB hard drive  |              6 GB hard drive              |
+| Graphics Card | Graphics card that supports DirectX 9 with WDDM 1.0 controler or superior | no fancy graphics |             no fancy graphics             |
 
 ## lubuntu Applications vs Windows
 
