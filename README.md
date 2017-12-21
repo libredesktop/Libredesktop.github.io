@@ -12,13 +12,13 @@ lubuntu is a full-featured desktop, that includes a selection of lightweight too
 
 ## Current lubuntu Releases
 
-Choosing the right version:
+How to choose the right version of lubuntu? Here are a few pointers:
 
-* 64-bit version suitable for PCs with Intel or AMD chip.
-* 32-bit version, for most PCs older than 2007.
-* PowerPC version for Apple Macintosh G3/G4/G5 and IBM OpenPower, please choose Long Term Support (LTS) version. 
-* Mac64 version for Intel Macs, 2006 and beyond, please use the 64-bit version.
-* For low-RAM (less than 700 MB) PCs use the alternate versions with a smaller set of applications.
+* The 64-bit version of lubuntu is suitable for PCs with Intel or AMD chips.
+* The 32-bit version of lubuntu is right for most PCs that are older than 2007.
+* To install lubuntu on a PowerPC for Apple Macintosh G3/G4/G5 and IBM OpenPower, please choose a version with Long Term Support (LTS). 
+* For the Mac64 version for Intel Macs of 2006 and beyond, please use the 64-bit version.
+* If you have a PC with very low-RAM (less than 700 MB) please use the alternate versions with a smaller set of applications.
 
 ## Installation
 
