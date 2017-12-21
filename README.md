@@ -59,11 +59,12 @@ There is also a [download page of lubuntu releases at Ubuntu.com](http://cdimage
 
 ### lubuntu vs Ubuntu
 
-[How does lubuntu compare to Ubuntu?](https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu)
+[How does lubuntu compare to Ubuntu?](lubuntu_vs_Ubuntu.md)
 
 ### lubuntu vs MacOS
 
 How does lubuntu compare to MacOS?
+
 
 ## Links
 
