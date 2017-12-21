@@ -18,7 +18,7 @@ How to install lubuntu on commonly used hardware and standard systems? Please fi
 
 ### lubuntu Installation on Very Old Computers
 
-How to install lubuntu on older hardware and very old computers? Please find [installation instructions through "Advanced Installation Methods" here](https://wiki.ubuntu.com/Lubuntu/AdvancedMethods)
+How to install lubuntu on older hardware and very old computers? Please find [installation instructions through "Advanced Installation Methods" here](https://wiki.ubuntu.com/Lubuntu/AdvancedMethods).
 
 ## lubuntu Releases
 
