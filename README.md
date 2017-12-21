@@ -47,7 +47,7 @@ Choosing the right version:
 
 # lubuntu compared to other Systems
 
-lubuntu vs Windows
+## lubuntu vs Windows
 
 [How does lubuntu compare to Windows?](/Comparison/windows.md)
 
