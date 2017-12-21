@@ -45,19 +45,19 @@ Choosing the right version:
 
 [Installation through Advanced Methods](https://wiki.ubuntu.com/Lubuntu/AdvancedMethods)
 
-# lubuntu compared to other systems
+# lubuntu compared to other Systems
+
+1. [lubuntu vs Windows](/Comparison/windows.md)
+
 
 ## lubuntu vs Ubuntu
 
 [How does lubuntu compare to Ubuntu?](https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu)
 
-## lubuntu vs Windows
-
-[How does lubuntu compare to Windows?](https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Windows_7)
-
 ## lubuntu vs MacOS
 
 How does lubuntu compare to MacOS?
+
 
 # Links
 
