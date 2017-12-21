@@ -1,4 +1,4 @@
-# docs.lubuntu.net
+# Lubuntu Documentation
 
 ## About lubuntu
 [Lubuntu](https://lubuntu.net) is a fast and lightweight operating system. The core of the system is based on Linux and Ubuntu. Lubuntu uses the minimal desktop LXDE, and a selection of light applications. It focuses on speed and energy-efficiency. Because of this, Lubuntu has very low hardware requirements.
