@@ -29,12 +29,12 @@ The minimum specification for CPU is Pentium 4 or Pentium M or AMD K8. Older pro
 ## Lubuntu-specific Bugs
 These are maintained by the Lubuntu team.
 
-__### LXDE__
+### LXDE
 * run dialog called from one desktop opens on the desktop with preferences dialog, regardless of which desktop is current ([1445818](https://bugs.launchpad.net/ubuntu/+source/lxpanel/+bug/1445818)).
 
 * changing multiple desktop names only results in the first being changed. ([1522625](https://bugs.launchpad.net/ubuntu/+source/obconf/+bug/1522625)).
 
-__### Lubuntu Installer__
+### Lubuntu Installer
 * All images require a DVD or USB. As a workaround, use the [server or netboot](https://help.ubuntu.com/community/Lubuntu/Alternate_ISO#CD_image) images.
 
 * GTK warning about "The :insensitive pseudo-class is deprecated. Use :disabled instead." in Lubuntu 16.10 installer output ([1633135](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1633135)).
@@ -49,4 +49,3 @@ Head over [here](lubuntu1710_downloads.md) to get it.
 ## Support
 This release is supported until July of 2018.
 <br>
-<hr>
