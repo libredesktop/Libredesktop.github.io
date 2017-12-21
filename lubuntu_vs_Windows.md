@@ -29,7 +29,7 @@ A more usable system would have:
 
 ## lubuntu Applications vs Windows
 
-Here is comparison table with a list of pre-installed applications and Windows.
+Here is comparison table with a list of pre-installed applications and Microsoft Windows software.
 
 |**Function**       	|**Windows Software** 	|**Lubuntu Application**  |
 |-------------------	|----------------------	|---------------------	|
