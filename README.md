@@ -49,17 +49,17 @@ Choosing the right version:
 
 ## lubuntu vs Ubuntu
 
-https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu
+[How does lubuntu compare to Ubuntu?](https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu)
 
 ## lubuntu vs Windows
 
-https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Windows_7
+[How do lubuntu compare to Windows?](https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Windows_7)
 
 # Links
 
-* Website: https://lubuntu.net
-* Ubuntu: https://ubuntu.com
-* Linux: https://linux.com
+* Website: [lubuntu.net](https://lubuntu.net)
+* Ubuntu: [ubuntu.com](https://ubuntu.com)
+* Linux: [linux.com](https://linux.com)
 
 # License
 
