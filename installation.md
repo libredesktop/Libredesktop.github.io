@@ -1,33 +1,33 @@
-## Installation Guide
+# Installation Guide
 
-### Step 0: Pre-installation
+## Step 0: Pre-installation
 
 Before installing Lubuntu, be sure to disable Secure Boot and Fast Boot in BIOS, if the options exist. Some distros can work with Secure Boot enabled, but we still recommend disabling it for various reasons.
 
 If you have Windows installed and wish to dual-boot, do the following: go to Power Options -> Choose what the power buttons do -> Change settings that are currently unavailable -> Disable “Fast startup (recommended)” and Hibernation, update Windows, restart, shrink Windows from within Windows using Disk Management to create “Unallocated Space” (preferably, at least 60 GB) for Linux, update Windows, restart.
 
-### Step 1: Creating Installation Media
+## Step 1: Creating Installation Media
 
 After you’ve downloaded the ISO file. You will either need to burn this image to a DVD or you will need to put it on an 4+ GB flash drive. You can use the included software in your OS to burn it to a DVD.
 
 Alternatively, you can put it on a flash drive. If you are creating the installer from Windows, you’ll need to download a tool called [Rufus](https://rufus.akeo.ie/). To put it on a flash drive if you are creating the installer from Mac or Linux, you can use the built-in tool.
 
-##### Windows:
+### Windows:
 
 1. Download and run Rufus.
 2. Near the bottom, select “ISO Image” and then browse for the ISO image.
 3. Select which flash drive you want to put the installer on.
 4. Click “Start” and wait for it to finish.
 
-#### MacOS:
+### MacOS:
 
 Visit this [link](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos)
 
-#### Linux:
+### Linux:
 
 You can use inbuilt Startup Disk Creator to do it.
 
-### Step 2: The Actual Installation
+## Step 2: The Actual Installation
 
 Reboot the computer and select the flash drive or DVD. If you disabled Secure Boot and Fast Boot in BIOS (if applicable), this should be easy.
 
@@ -35,7 +35,7 @@ When the image boots, select “Try”. You can proceed with the installation fr
 
 If you have a single drive in your system and want the easy option, then you can select one of the easy installation options, such as “Install alongside [existing OS here]” or “Erase disk and install”. However, if you have multiple disks or want to have more control over configuring your partitions, click “Something Else” (fairly advanced).
 
-#### Easy Installation Options
+### Easy Installation Options
 
 (for single disks and simple configurations)
 
@@ -43,7 +43,7 @@ Ensure you can read your disk fine, if it have data on it. You can mount your di
 
 Run the installer, select your language, and check both of the two boxes. Then, select either “Install alongside [existing OS here]” or “Erase disk and install”.
 
-#### “Something Else”
+### “Something Else”
 
 (fairly advanced, for multi-disk systems or custom partition setups)
 
@@ -61,7 +61,7 @@ Run the installer, select your language, and check both of the two boxes. Then, 
 3. If you have any other empty disks, give them the correct type of partition tables as well, however, you don’t need EFI System Partitions for non-bootable drives.
 4. Close GParted if nothing else needs to be done.
 
-#### Once you’ve prepared your disks
+### Once you’ve prepared your disks
 
 1. Open the installer, select your language, and then check both of the two boxes.
 2. The installer will present you with a choice of where you want to install the OS to.
@@ -71,7 +71,7 @@ Run the installer, select your language, and check both of the two boxes. Then, 
 6. If you have multiple drives, you should also create partition(s) on them if they are empty (same settings, “Primary”, use as “ext4 journaling file system”, and perhaps mount it as `/storage`).
 7. Before clicking “Install Now”, ensure that the “Device for boot loader installation” is set to your primary drive (`/dev/sd[letter]` with **NO NUMBER**).
 
-#### The Rest of the Installation
+### The Rest of the Installation
 
 The rest of the installation should be mostly self-explanatory. You have to enter the username and password that you want, choose your computer’s name, set your timezone, etc.
 
