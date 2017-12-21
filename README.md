@@ -10,7 +10,17 @@ Our tests showed that until version 16.04 lubuntu can be installed on a Pentium 
 
 lubuntu is a full-featured desktop, that includes a selection of lightweight tools and applications. Here are links with details and the list of [Installed Tools](https://help.ubuntu.com/community/Lubuntu/Setup#Installed_Tools) and [Applications in lubuntu.](https://help.ubuntu.com/community/Lubuntu/Setup#Applications)
 
-## Current lubuntu Releases
+## Installation of lubuntu
+
+### lubuntu Installation on Most Systems
+
+[Installation Instructions for lubuntu](/installation)
+
+### lubuntu Installation on Very Old Computers
+
+[Installation through Advanced Methods](https://wiki.ubuntu.com/Lubuntu/AdvancedMethods)
+
+## lubuntu Releases
 
 How to choose the right version of lubuntu? Here are a few pointers:
 
@@ -20,12 +30,10 @@ How to choose the right version of lubuntu? Here are a few pointers:
 * For the Mac64 version for Intel Macs of 2006 and beyond, please use the 64-bit version.
 * If you have a PC with very low-RAM (less than 700 MB) please use the alternate versions with a smaller set of applications.
 
-## Installation
+**lubuntu Versions**
 
-[Installation Instructions for lubuntu](/installation)
+Below you find links to a copy of the release notes and links to downloads.
 
-## Version
-[Download Page at Ubuntu.com](http://cdimage.ubuntu.com/lubuntu/releases/)
 * Lubuntu 17.10, Release Notes, Downloads
 * Lubuntu 17.04, Release Notes, Downloads
 * Lubuntu 16.10, Release Notes, Downloads
@@ -41,9 +49,7 @@ How to choose the right version of lubuntu? Here are a few pointers:
 * Lubuntu 10.10, Release Notes, Downloads
 * Lubuntu 10.04, Release Notes, Downloads
 
-## lubuntu for Very Old Computers
-
-[Installation through Advanced Methods](https://wiki.ubuntu.com/Lubuntu/AdvancedMethods)
+There is also a [download page of lubuntu releases at Ubuntu.com](http://cdimage.ubuntu.com/lubuntu/releases/).
 
 # lubuntu compared to other Systems
 
@@ -58,7 +64,6 @@ How to choose the right version of lubuntu? Here are a few pointers:
 ## lubuntu vs MacOS
 
 How does lubuntu compare to MacOS?
-
 
 # Links
 
