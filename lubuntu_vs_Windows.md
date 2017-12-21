@@ -31,33 +31,33 @@ A more usable system would have:
 
 Here is comparison table with a list of pre-installed applications and Windows.
 
-| Lubuntu Application 	| Function          	| Windows Software     	| Included in SP1                    	| 	
-|---------------------	|-------------------	|----------------------	|------------------------------------	|
-| Xpad                	| Stickies          	| Microsoft OneNote    	| Yes                                	|
-| Evince              	| PDF Viewer        	| Adobe Reader         	| Yes                                	|
-| Gnumeric            	| Spreadsheet       	| Excel                	| Yes                                	|
-| Abiword             	| Docs              	| Word                 	| Yes                                	|
-| Simple-scan         	| Scanner           	|                      	|                                    	|
-| Gnome-disk-utility  	| Partition Editor  	| Disk Manager         	| Yes                                	|
-| Light-locker        	| Screensaver       	| Scrnsave.exe         	| Yes                                	|
-| Guvcview            	| Webcam Utility    	| Driver-related       	| Yes                                	|
-| Gucharmap           	| Character Map     	|                      	|                                    	|
-| Scrot               	| Screenshot        	|                      	| Available, but it is not a program 	|
-| Hardinfo            	| System info       	|                      	| Featured                           	|
-| Mtpaint             	| Image Editing     	| Paint                	| Yes                                	|
-| Xfburn              	| Cd Burning        	| No                   	| Not featured                       	|
-| Pcmanfm             	| File Manager      	| Explorer.exe         	|                                    	|
-| Gcalculator         	| Calculator        	| Calc                 	|                                    	|
-| Audacious           	| Audio Player      	| Windows Media Player 	| Yes                                	|
-| Gnome-mplayer       	| Video Player      	| Windows Media Player 	| Yes                                	|
-| Transmission        	| Torrent           	| No                   	| No                                 	|
-| Pidgin              	| Instant Messaging 	| Microsoft Lync       	| No                                 	|
-| Sylpheed            	| Email Client      	| Outlook              	| Yes                                	|
-| Mozilla Firefox     	| Browser           	| Internet Explorer    	| Yes                                	|
-| Leafpad             	| Editor            	| Notepad/WordPad      	| Yes                                	|
-| File-roller         	| Zip files manager 	|                      	| Not featured                       	|
-| Lxterminal          	| Terminal          	| cmd.exe              	| Yes                                	|
-| Gpicview            	| Image Viewer      	| Windows Media Center 	| Yes                                	|
+|**Function**       	|**Windows Software** 	|**Lubuntu Application**  |
+|-------------------	|----------------------	|---------------------	|
+| Stickies          	| Microsoft OneNote    	| Xpad                	|
+| PDF Viewer        	| Adobe Reader         	| Evince              	|
+| Spreadsheet       	| Excel                	| Gnumeric            	|
+| Docs              	| Word                 	| Abiword             	|
+| Scanner           	|                      	| Simple-scan         	|
+| Partition Editor  	| Disk Manager         	| Gnome-disk-utility  	|
+| Screensaver       	| Scrnsave.exe         	| Light-locker        	|
+| Webcam Utility    	| Driver-related       	| Guvcview            	|
+| Character Map     	|                      	| Gucharmap           	|
+| Screenshot        	| Integrated in System 	| Scrot               	|
+| System info       	| Integrated in System 	| Hardinfo            	|
+| Image Editing     	| Paint                	| Mtpaint             	|
+| Cd Burning        	| No                   	| Xfburn              	|
+| File Manager      	| Explorer             	| Pcmanfm             	|
+| Calculator        	| Calc                 	| Gcalculator         	|
+| Audio Player      	| Windows Media Player 	| Audacious           	|
+| Video Player      	| Windows Media Player 	| Gnome-mplayer       	|
+| Torrent           	| No                   	| Transmission        	|
+| Instant Messaging 	| Microsoft Lync       	| Pidgin              	|
+| Email Client      	| Outlook              	| Sylpheed            	|
+| Browser           	| Internet Explorer    	| Mozilla Firefox     	|
+| Editor            	| Notepad/WordPad      	| Leafpad             	|
+| Zip files manager 	| Integrated in System 	| File-roller         	|
+| Terminal          	| cmd.exe              	| Lxterminal          	|
+| Image Viewer      	| Windows Media Center 	| Gpicview            	|
 
 
 Original Source: Ubuntu wiki
