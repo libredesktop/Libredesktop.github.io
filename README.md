@@ -51,27 +51,27 @@ Below you find links to a copy of the release notes and links to downloads.
 
 There is also a [download page of lubuntu releases at Ubuntu.com](http://cdimage.ubuntu.com/lubuntu/releases/).
 
-# lubuntu compared to other Systems
+## lubuntu compared to other Systems
 
-## lubuntu vs Windows
+### lubuntu vs Windows
 
 [How does lubuntu compare to Windows?](/Comparison/windows.md)
 
-## lubuntu vs Ubuntu
+### lubuntu vs Ubuntu
 
 [How does lubuntu compare to Ubuntu?](https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu)
 
-## lubuntu vs MacOS
+### lubuntu vs MacOS
 
 How does lubuntu compare to MacOS?
 
-# Links
+## Links
 
 * lubuntu Website: [lubuntu.net](https://lubuntu.net)
 * LXDE Website: [lxde.org](https://lxde.org)
 * Ubuntu: [ubuntu.com](https://ubuntu.com)
 * Linux: [linux.com](https://linux.com)
 
-# License
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
