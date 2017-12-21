@@ -50,10 +50,8 @@ Choosing the right version:
 ## lubuntu vs Ubuntu
 
 https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu
+2. [lubuntu vs Ubuntu](/Comparison/ubuntu.md)
 
-## lubuntu vs Windows
-
-https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Windows_7
 
 # Links
 
