@@ -33,29 +33,29 @@ Here is comparison table with a list of pre-installed applications and Windows.
 
 |**Function**       	|**Windows Software** 	|**Lubuntu Application**  |
 |-------------------	|----------------------	|---------------------	|
-| Stickies          	| Microsoft OneNote    	| Xpad                	|
+| Sticky Notes       	| Microsoft OneNote    	| Xpad                	|
 | PDF Viewer        	| Adobe Reader         	| Evince              	|
-| Spreadsheet       	| Excel                	| Gnumeric            	|
-| Docs              	| Word                 	| Abiword             	|
+| Spreadsheets      	| Excel                	| Gnumeric            	|
+| Word Processing    	| MS Word              	| Abiword             	|
 | Scanner           	|                      	| Simple-scan         	|
 | Partition Editor  	| Disk Manager         	| Gnome-disk-utility  	|
 | Screensaver       	| Scrnsave.exe         	| Light-locker        	|
 | Webcam Utility    	| Driver-related       	| Guvcview            	|
 | Character Map     	|                      	| Gucharmap           	|
-| Screenshot        	| Integrated in System 	| Scrot               	|
+| Screenshot Tool    	| Integrated in System 	| Scrot               	|
 | System info       	| Integrated in System 	| Hardinfo            	|
 | Image Editing     	| Paint                	| Mtpaint             	|
-| Cd Burning        	| No                   	| Xfburn              	|
+| CD Burner         	| No                   	| Xfburn              	|
 | File Manager      	| Explorer             	| Pcmanfm             	|
-| Calculator        	| Calc                 	| Gcalculator         	|
+| Calculator        	| MS Calc              	| Gcalculator         	|
 | Audio Player      	| Windows Media Player 	| Audacious           	|
 | Video Player      	| Windows Media Player 	| Gnome-mplayer       	|
 | Torrent           	| No                   	| Transmission        	|
-| Instant Messaging 	| Microsoft Lync       	| Pidgin              	|
+| Messenger          	| Microsoft Lync       	| Pidgin              	|
 | Email Client      	| Outlook              	| Sylpheed            	|
 | Browser           	| Internet Explorer    	| Mozilla Firefox     	|
 | Editor            	| Notepad/WordPad      	| Leafpad             	|
-| Zip files manager 	| Integrated in System 	| File-roller         	|
+| Zip File Manager   	| Integrated in System 	| File-roller         	|
 | Terminal          	| cmd.exe              	| Lxterminal          	|
 | Image Viewer      	| Windows Media Center 	| Gpicview            	|
 
