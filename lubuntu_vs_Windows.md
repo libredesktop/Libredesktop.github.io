@@ -1,4 +1,4 @@
-# lubunt vs Windows
+# lubuntu vs Windows
 
 How does lubuntu compare to Windows?
 
@@ -59,6 +59,7 @@ Here is comparison table with a list of pre-installed applications and Windows.
 | Lxterminal          	| Terminal          	| cmd.exe              	| Yes                                	|
 | Gpicview            	| Image Viewer      	| Windows Media Center 	| Yes                                	|
 
-Source: Contributors to the Ubuntu documentation wiki 
+
+Original Source: Ubuntu wiki
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
