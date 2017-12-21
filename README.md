@@ -34,7 +34,7 @@ How to choose the right version of lubuntu? Here are a few pointers:
 
 Below you find links to a copy of the release notes and links to downloads.
 
-* Lubuntu 17.10, Release Notes, Downloads
+* Lubuntu 17.10, [Release Notes](/releases/lubuntu1710_release_notes.md), [Downloads](/releases/lubuntu1710_downloads.md)
 * Lubuntu 17.04, Release Notes, Downloads
 * Lubuntu 16.10, Release Notes, Downloads
 * Lubuntu 16.04, Release Notes, Downloads
