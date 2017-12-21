@@ -55,11 +55,11 @@ There is also a [download page of lubuntu releases at Ubuntu.com](http://cdimage
 
 ### lubuntu vs Windows
 
-[How does lubuntu compare to Windows?](/Comparison/windows.md)
+[How does lubuntu compare to Windows?](lubuntu_vs_Windows.md)
 
 ### lubuntu vs Ubuntu
 
-[How does lubuntu compare to Ubuntu?](https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu).
+[How does lubuntu compare to Ubuntu?](https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu)
 
 ### lubuntu vs MacOS
 
