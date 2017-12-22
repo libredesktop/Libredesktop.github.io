@@ -6,11 +6,11 @@ How does lubuntu compare to Windows?
 
 What are the hardware requirements of lubuntu compared to Windows?
 
-| **Requirements** | **Windows 32 bit** |  **Windows 64 bit** | **Lubuntu up to 14.10** |  **Lubuntu (Minimal)** | **Lubuntu (Recommended)**  |
+| **Requirements** | **Windows 32 bit** |  **Windows 64 bit** | **Lubuntu up to 14.10** |  **Lubuntu (Minimal Alternate Version)** | **Lubuntu (Recommended)**  |
 |------------------|--------------------|---------------------|-------------------------|-----------------------|----------------------------|
-| **Processor** | 1 GHz processor | 1 GHz processor |          |  266 MHz processor | 512 MHz processor or faster, 32 or 64 bit |
-| **RAM** | 1 GB of RAM | at least 2 GB RAM |             | 128 MB|512 MB of RAM|
-| **Hard Drive**  |16 GB hard drive | 20 GB hard drive  |             |  3 GB hard drive  |  6 GB hard drive  |
+| **Processor** | 1 GHz | 2 GHz | 512 MHz or faster |  266 MHz | 1 GHz, 32 or 64 bit |
+| **RAM** | 1 GB | at least 2 GB |             | 128 MB |512 MB|
+| **Hard Drive**  |16 GB | 20 GB   |             |  3 GB  |  6 GB |
 | **Graphics Card** | Graphics card with DirectX 9 and WDDM 1.0 controler support | Graphics card with DirectX 9 and WDDM 1.0 controler support  |             | no fancy graphics | no fancy graphics |
 
 ## lubuntu Applications vs Windows
