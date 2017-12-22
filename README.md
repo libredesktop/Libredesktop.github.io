@@ -4,7 +4,7 @@
 [Lubuntu](https://lubuntu.net) is a fast and lightweight operating system. The core of the system is based on Linux and Ubuntu. Lubuntu uses the minimal desktop LXDE, and a selection of light applications. It focuses on speed and energy-efficiency. Because of this, Lubuntu has very low hardware requirements.
 
 ## System Requirements
-Our tests show that until version 14.10 lubuntu can be installed on a Pentium II or Celeron system with 256 MB RAM to get a usable system. With 512 MB of RAM, you do not need to worry much. The recommended "lubuntu Desktop" from version 15.04 onwards is 1 GB of RAM. For Internet services like Facebook, Youtube, and Google Docs about 1 GB RAM are needed. For local programs like Libre Office and simple browsing habits 512 MB RAM are usually sufficient. For PCs with less resources, there is an alternative lubuntu installer, that should still provide a basic running system.
+Our tests show that until version 14.10 lubuntu can be installed on a Pentium II or Celeron system with 256 MB RAM to get a usable system. With 512 MB of RAM, you do not need to worry much. The recommended "lubuntu Desktop" from version 15.04 onwards is 1 GB of RAM. For Internet services like Facebook, Youtube, and Google Docs about 1 GB RAM are needed. For local programs like Libre Office and simple browsing habits 512 MB RAM are usually sufficient. For PCs with less resources, there are alternative lubuntu installers on the download pages, that provide a basic running system for those systems.
 
 ## Applications in lubuntu
 
