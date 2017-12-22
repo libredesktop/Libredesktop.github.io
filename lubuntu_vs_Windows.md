@@ -13,9 +13,10 @@ What are the hardware requirements of lubuntu compared to Windows?
 | **Hard Drive**  |16 GB | 20 GB   |             |  3 GB  |  6 GB |
 | **Graphics Card** | Graphics card with DirectX 9 and WDDM 1.0 controler support | Graphics card with DirectX 9 and WDDM 1.0 controler support  |             | no fancy graphics | no fancy graphics |
 
+
 *For Internet services like Facebook, Youtube, and Google Docs about 1 GB RAM are needed. For local programs like Libre Office and simple browsing habits 512 MB RAM are usually sufficient. 
 
-## lubuntu Applications vs Windows
+## lubuntu Applications vs Windows Applications
 
 Here is comparison table with a list of pre-installed applications and Microsoft Windows software.
 
