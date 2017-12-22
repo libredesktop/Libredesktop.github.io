@@ -8,7 +8,7 @@ Our tests show that until version 14.10 lubuntu can be installed on a Pentium II
 
 ## Applications in lubuntu
 
-lubuntu is a full-featured desktop, that includes a selection of lightweight tools and applications. Here are links with details and the list of [Installed Tools](https://help.ubuntu.com/community/Lubuntu/Setup#Installed_Tools) and [Applications in lubuntu](lubuntu_applications.md).
+lubuntu is a full-featured desktop, that includes a selection of lightweight tools and applications. Here are links with details and the list of [Installed Tools](lubuntu_installed_tools.md) and [Applications in lubuntu](lubuntu_applications.md).
 
 ## Installation of lubuntu
 
