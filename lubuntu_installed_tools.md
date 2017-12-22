@@ -1,6 +1,6 @@
-## lubuntu Installed Tools
+# lubuntu Installed Tools
 
-### lubuntu System Tools
+## lubuntu System Tools
 
 1. GDebi Package Installer: Installs software using .deb files.
 
@@ -30,7 +30,7 @@
 
 14. Windows Wireless Drivers] GUI installer for Ndiswrapper. Allows the use of Windows network drivers on 32-bit Linux. 
 
-### lubuntu Preferences
+## lubuntu Preferences
 
 1. Additional Drivers Have Ubuntu look for more drivers for your hardware. http://www.howtogeek.com/howto/17495/how-to-add-proprietary-drivers-to-ubuntu-10.04/ In 12.10 this app has been moved to the Software Sources program. However in 14.04 and later a shortcut has been added back to the menu for convience.
 
