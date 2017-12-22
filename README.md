@@ -50,7 +50,7 @@ Below you find links to a copy of the release notes and links to downloads.
 
 There is also a [download page of lubuntu releases at Ubuntu.com](http://cdimage.ubuntu.com/lubuntu/releases/).
 
-## lubuntu compared to other Systems
+## lubuntu compared to other Operating Systems
 
 ### lubuntu vs Windows
 
