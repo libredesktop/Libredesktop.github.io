@@ -69,8 +69,10 @@ How does lubuntu compare to MacOS?
 
 ## Links
 
-* lubuntu Website: [lubuntu.net](https://lubuntu.net)
-* LXDE Website: [lxde.org](https://lxde.org)
+Need more help? Please visit the [lubuntu section in the Ubuntu forum](https://ubuntuforums.org/tags.php?tag=lubuntu).
+
+* lubuntu: [lubuntu.net](https://lubuntu.net)
+* LXDE: [lxde.org](https://lxde.org)
 * Ubuntu: [ubuntu.com](https://ubuntu.com)
 * Linux: [linux.com](https://linux.com)
 
