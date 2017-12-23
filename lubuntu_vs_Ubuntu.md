@@ -1,6 +1,6 @@
 # lubuntu vs Ubuntu
  
-How does lubuntu compare to Ubuntu?
+What is the difference between lubuntu and Ubuntu? How does lubuntu compare to Ubuntu?
  
 |                                  | Ubuntu                                                 | Lubuntu                       |
 |----------------------------------|--------------------------------------------------------|-------------------------------|
