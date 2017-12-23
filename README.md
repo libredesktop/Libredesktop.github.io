@@ -1,4 +1,4 @@
-# Lubuntu Documentation [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Learning%20how%20to%20install%20%20&#64;lubuntudesktop%20on%20&url=https://docs.lubuntu.net)
+# Lubuntu Documentation [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Learning%20about%20&#64;lubuntudesktop%20on&url=https://docs.lubuntu.net&hashtags=Linux,OpenSource,lubuntu)
 
 ## About lubuntu
 [Lubuntu](https://lubuntu.net) is a fast and lightweight operating system. The core of the system is based on Linux and Ubuntu. Lubuntu uses the minimal desktop LXDE, and a selection of light applications. It focuses on speed and energy-efficiency. Because of this, Lubuntu has very low hardware requirements.
