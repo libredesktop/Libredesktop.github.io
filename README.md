@@ -56,11 +56,11 @@ What is the major difference between lubuntu and Windows, MacOS, Ubuntu and othe
 
 ### lubuntu vs Windows
 
-[How does lubuntu compare to Windows?](lubuntu_vs_Windows.md)
+[How does lubuntu compare to Windows? Why is lubuntu a good alternative?](lubuntu_vs_Windows.md)
 
 ### lubuntu vs Ubuntu
 
-[How does lubuntu compare to Ubuntu?](lubuntu_vs_Ubuntu.md)
+[What is the difference between lubuntu and Ubuntu? How does lubuntu compare to Ubuntu?](lubuntu_vs_Ubuntu.md)
 
 ### lubuntu vs MacOS
 
