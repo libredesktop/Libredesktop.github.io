@@ -22,7 +22,7 @@ How to install lubuntu on older hardware and very old computers? Please find [in
 
 ## lubuntu Releases
 
-How to choose the right version of lubuntu? Here are a few pointers:
+How to choose the right version of lubuntu? Which is the right [lubuntu release](/releases/Readme.md) for you? Here are a few pointers:
 
 * The 64-bit version of lubuntu is suitable for PCs with Intel or AMD chips.
 * The 32-bit version of lubuntu is right for most PCs that are older than 2007.
