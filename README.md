@@ -48,7 +48,7 @@ Below you find links to a copy of the release notes and links to downloads.
 * Lubuntu 10.10, [Release Notes](/releases/lubuntu1010_release_notes.md), [Downloads](/releases/lubuntu1010_downloads.md)
 * Lubuntu 10.04, [Release Notes](/releases/lubuntu1004_release_notes.md), [Downloads](/releases/lubuntu1004_downloads.md)
 
-There is also a [download page of lubuntu releases at Ubuntu.com](http://cdimage.ubuntu.com/lubuntu/releases/).
+There is also a download page of lubuntu releases at [Ubuntu.com](http://cdimage.ubuntu.com/lubuntu/releases/).
 
 ## lubuntu compared to other Operating Systems
 
