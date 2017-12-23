@@ -7,12 +7,11 @@ How does lubuntu compare to maxOS? Why is lubuntu a good alternative?
 | **Requirements** | **OS X Lion or newer** |  **Lubuntu (Current)**  |
 |------------------|--------------------|-------------------------|
 | **Processor** |  Intel Core 2 Duo or newer | Intel Pentium or AMD K8 |
-| **RAM** |  2 GB of RAM | 512 MB of RAM |
+| **RAM** |  2 GB | 512 MB (Recommended 1 GB) |
 | **Hard Drive**  | 7 GB of available disk space | 2 GB of hard disk space |
 
-<hr />
 
-## Feature and Cost Comparison
+## lubuntu and macOS Feature and Cost Comparison
 
 |**Comparision**       	|**maxOS** 	|**lubuntu**  |
 |-------------------	|----------------------	|---------------------	|
@@ -24,3 +23,5 @@ How does lubuntu compare to maxOS? Why is lubuntu a good alternative?
 | Hardware choices  | Limited hardware <br/>Usually, the hardware that can run this can't be upgraded.     | Full upgradability <br/> Any hardware system made after 2008 can be used with this system |
 | Support cycle | Suppourt ends usually after 3-4 years of release  <br/>     |   Offers a long term support release<br/>    |
 | Window Manager | The default window manager lacks any user customization <br/>  |   Uses Openbox as the default window manager which is easily customizable <br/>     |
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a>.
