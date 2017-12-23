@@ -52,6 +52,8 @@ There is also a [download page of lubuntu releases at Ubuntu.com](http://cdimage
 
 ## lubuntu compared to other Operating Systems
 
+What is the major difference between lubuntu and Windows, MacOS, Ubuntu and other operating systems?
+
 ### lubuntu vs Windows
 
 [How does lubuntu compare to Windows?](lubuntu_vs_Windows.md)
