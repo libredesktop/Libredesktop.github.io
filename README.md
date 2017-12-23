@@ -72,21 +72,21 @@ How does lubuntu compare to MacOS?
 * Ubuntu: [ubuntu.com](https://ubuntu.com)
 * Linux: [linux.com](https://linux.com)
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-[![alt text][7.1]][7]
+[![alt text][twitter]][1]
+[![alt text][facebook]][2]
+[![alt text][google]][3]
+[![alt text][youtube]][4]
+[![alt text][linkedin]][5]
+[![alt text][github]][6]
+[![alt text][launchpad]][7]
 
-[1.1]: /img/twitter.png (Twitter)
-[2.1]: /img/facebook.png (Facebook)
-[3.1]: /img/googleplus.png (Google+)
-[4.1]: /img/youtube.png (Youtube)
-[5.1]: /img/in.png (Linkedin)
-[6.1]: /img/github.png (Github)
-[7.1]: /img/launchpad.png (Launchpad)
+[twitter]: ./img/twitter.png (Twitter)
+[facebook]: ./img/facebook.png (Facebook)
+[google]: ./img/googleplus.png (Google+)
+[youtube]: ./img/youtube.png (Youtube)
+[linkedin]: ./img/in.png (Linkedin)
+[github]: ./img/github.png (Github)
+[launchpad]: ./img/launchpad.png (Launchpad)
 
 [1]: https://twitter.com/lubuntudesktop/
 [2]: https://www.facebook.com/lubuntudesktop/
