@@ -1,7 +1,9 @@
-# Lubuntu Documentation [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Learning%20about%20&#64;lubuntudesktop%20on&url=https://docs.lubuntu.net&hashtags=Linux,OpenSource,lubuntu)
+# lubuntu Documentation [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Learning%20about%20&#64;lubuntudesktop%20on&url=https://docs.lubuntu.net&hashtags=Linux,OpenSource,lubuntu)
+
+The [lubuntu/light Ubuntu documentation](https://lubuntu.net) supports users to get [lubuntu installed](/lubuntu_installation.md). Learn about [lubuntu releases](/releases/Readme.md), advantages of lubuntu compared to other operating systems, [tools](lubuntu_installed_tools.md) and [lubuntu apps](lubuntu_applications.md), and [advanced installation instructions](lubuntu_installation_on_old_computers.md) for older PCs.
 
 ## About lubuntu
-[Lubuntu](https://lubuntu.net) is a fast and lightweight operating system with a clean and easy-to-use user interface. The core of the system is based on Linux and Ubuntu. Lubuntu uses the minimal desktop LXDE, and a selection of light applications. Because of this, Lubuntu has very low hardware requirements.
+lubuntu is a fast and lightweight operating system with a clean and easy-to-use user interface. The core of the system is based on Linux and Ubuntu. Lubuntu uses the minimal desktop LXDE, and a selection of light applications. Because of this, Lubuntu has very low hardware requirements.
 
 ## System Requirements
 Our tests show that until version 14.10 lubuntu can be installed on a Pentium II or Celeron system with 256 MB RAM to get a usable system. With 512 MB of RAM, you do not need to worry much. The recommended "lubuntu Desktop" from version 15.04 onwards is 1 GB of RAM. For Internet services like Facebook, Youtube, and Google Docs about 1 GB RAM are needed. For local programs like Libre Office and simple browsing habits 512 MB RAM are usually sufficient. For PCs with less resources, there are alternative lubuntu installers on the download pages, that provide a basic running system for those systems.
