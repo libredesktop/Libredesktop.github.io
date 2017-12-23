@@ -14,11 +14,11 @@ lubuntu is a full-featured desktop, that includes a selection of lightweight too
 
 ### lubuntu Installation on Most Systems
 
-How to install lubuntu on commonly used hardware and standard systems? Please find [installation instructions for lubuntu here](/installation.md).
+How to install lubuntu on commonly used hardware and standard systems? Please find [installation instructions for lubuntu here](/lubuntu_installation.md).
 
 ### lubuntu Installation on Very Old Computers
 
-How to install lubuntu on older hardware and very old computers? Please find [installation instructions through "Advanced Installation Methods" here](lubuntu_on_older_computer.md).
+How to install lubuntu on older hardware and very old computers? Please find [installation instructions through "Advanced Installation Methods" here](lubuntu_installation_on_old_computers.md).
 
 ## lubuntu Releases
 
