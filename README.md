@@ -66,7 +66,7 @@ What is the major difference between lubuntu and Windows, MacOS, Ubuntu and othe
 
 ### lubuntu vs MacOS
 
-How does lubuntu compare to MacOS?
+[How does lubuntu compare to MacOS?](lubuntu_vs_MacOs.md)
 
 ### lubuntu vs Android
 
