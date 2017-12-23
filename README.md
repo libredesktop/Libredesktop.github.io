@@ -1,4 +1,4 @@
-# Lubuntu Documentation
+# Lubuntu Documentation [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Learning%20how%20to%20install%20h%20@lubuntudesktop%20on%204&url=https://docs.lubuntu.net%20#lubuntu%20#Linux#OpenSource%20#FreeDesktop%20@fossasia%20@mariobehling)
 
 ## About lubuntu
 [Lubuntu](https://lubuntu.net) is a fast and lightweight operating system. The core of the system is based on Linux and Ubuntu. Lubuntu uses the minimal desktop LXDE, and a selection of light applications. It focuses on speed and energy-efficiency. Because of this, Lubuntu has very low hardware requirements.
@@ -95,7 +95,5 @@ How does lubuntu compare to MacOS?
 [5]: https://www.linkedin.com/groups/3742725
 [6]: https://github.com/lubuntu-dev/
 [7]: https://launchpad.net/~lubuntu-x
-
-# License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
