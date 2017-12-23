@@ -1,6 +1,6 @@
 # lubuntu vs Windows
 
-How does lubuntu compare to Windows?
+How does lubuntu compare to Windows? Why is lubuntu a good alternative?
 
 ## lubuntu Hardware Requirements vs Windows Hardware Requirements
 
