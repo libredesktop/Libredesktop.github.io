@@ -1,4 +1,4 @@
-# Installation Guide
+# How to Install lubuntu? The lubuntu Installation Guide
 
 ## Step 0: Pre-installation
 
