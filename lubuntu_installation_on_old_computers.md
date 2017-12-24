@@ -1,4 +1,4 @@
-# lubuntu Installation on Old and Very Old Computers
+# How to Install lubuntu on Old and Very Old Computers? lubuntu Installation Guide for Old Systems
 
 Lubuntu is a good operating system for many old computers, but not for all of them. Some computers have too little horsepower or memory. A rule of thumb is that the computer should not be more than 10 years old.
 
