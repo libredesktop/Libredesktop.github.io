@@ -39,6 +39,7 @@ Below you find links to a copy of the release notes and links to downloads.
 * Lubuntu 17.10, [Release Notes](/releases/lubuntu1710_release_notes.md), [Downloads](/releases/lubuntu1710_downloads.md)
 * Lubuntu 17.04, [Release Notes](/releases/lubuntu1704_release_notes.md), [Downloads](/releases/lubuntu1704_downloads.md)
 * Lubuntu 16.10, [Release Notes](/releases/lubuntu1610_release_notes.md), [Downloads](/releases/lubuntu1610_downloads.md)
+* Lubuntu 16.04, [Release Notes](/releases/lubuntu1604_release_notes.md), [Downloads](/releases/lubuntu1604_downloads.md)
 * Lubuntu 15.10, [Release Notes](/releases/lubuntu1510_release_notes.md), [Downloads](/releases/lubuntu1510_downloads.md)
 * Lubuntu 15.04, [Release Notes](/releases/lubuntu1504_release_notes.md), [Downloads](/releases/lubuntu1504_downloads.md)
 * Lubuntu 14.10, [Release Notes](/releases/lubuntu1410_release_notes.md), [Downloads](/releases/lubuntu1410_downloads.md)
