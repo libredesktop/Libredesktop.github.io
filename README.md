@@ -1,14 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-17146009-11"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-17146009-11');
-</script>
-
-
 # lubuntu Documentation [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Learning%20about%20&#64;lubuntudesktop%20on&url=https://docs.lubuntu.net&hashtags=Linux,OpenSource,lubuntu)
 
 The [lubuntu/light Ubuntu](https://lubuntu.net) documentation supports users to get [lubuntu installed](/lubuntu_installation.md). Learn about [lubuntu releases](/releases/Readme.md), advantages of lubuntu compared to other operating systems, [lubuntu tools](lubuntu_installed_tools.md), its [applications](lubuntu_applications.md), and advanced [installation instructions for older PCs](lubuntu_installation_on_old_computers.md).
