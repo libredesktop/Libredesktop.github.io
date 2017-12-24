@@ -53,5 +53,7 @@ What pre-installed applications come with lubuntu and how do they compare to Win
 ## lubuntu as an alternative to Windows - What do others say
 
 * [Why Lubuntu Is a Good Alternative to Replace Windows XP, Turbofuture.com, by Ronald E Franklin](https://turbofuture.com/computers/Why-Lubuntu-Is-A-Good-Alternative-To-Replace-Windows-XP), (9. Dec. 2017)
+* [How much faster is Lubuntu?, Thread on askubuntu.com](https://askubuntu.com/questions/68067/how-much-faster-is-lubuntu), (Oct. 2013)
+* Top Alternative Linux Distributions To Windows XP, by linuxandubuntu.com](http://www.linuxandubuntu.com/home/top-alternative-linux-distributions-to-windows-xp), 28. July, 2017
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a>.
