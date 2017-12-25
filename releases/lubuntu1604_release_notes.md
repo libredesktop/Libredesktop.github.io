@@ -13,7 +13,7 @@
 - [Openbox](http://openbox.org/), the fast and extensible, default windows-manager of LXDE.
 - [Lightdm](https://launchpad.net/lightdm), using the simple GTK greeter
 - Firefox, the famous web browser.
-- For more detail, please see the [full list of applications](https://help.ubuntu.com/community/Lubuntu/Setup#Applications).
+- For more detail, please see the [full list of applications](/lubuntu_applications.md).
 
 ## System Requirements
 Lubuntu is a good operating system for many old computers, but not for all of them. Some computers have too little horsepower or memory. A rule of thumb is that the computer should not be more than 10 years old.
@@ -56,19 +56,19 @@ ALL DESKTOP IMAGES NOW REQUIRE A DVD OR USB.
 
 Thanks to the hard work from our development team, these bugs have been fixed in the 16.04.1 milestone:
 
-- Abiword language selector text cut off in abiword ([1484785](https://pad.lv/1484785)).
+- Abiword language selector text cut off in abiword ([1484785](https://bugs.launchpad.net/ubuntu/+source/abiword/+bug/1484785)).
 
-- Abiword always starts after logging in ([1432271](https://pad.lv/1432271)).
+- Abiword always starts after logging in ([1432271](https://bugs.launchpad.net/ubuntu/+source/abiword/+bug/1432271)).
 
-- Abiword icon has extra smaller icons included ([1586708](https://pad.lv/1586708)).
+- Abiword icon has extra smaller icons included ([1586708](https://bugs.launchpad.net/ubuntu/+source/abiword/+bug/1586708)).
 
-- Intel video driver not installed by default on Lubuntu 16.04 fresh install ([1575460](https://pad.lv/1575460)).
+- Intel video driver not installed by default on Lubuntu 16.04 fresh install ([1575460](https://bugs.launchpad.net/ubuntu/+source/lubuntu-meta/+bug/1575460)).
 
-- Missing Lubuntu Plymouth logo ([1582046](https://pad.lv/1582046)).
+- Missing Lubuntu Plymouth logo ([1582046](https://bugs.launchpad.net/ubuntu/+source/lubuntu-artwork/+bug/1582046)).
 
-- Pcmanfm crash on invalid path ([1562764](https://pad.lv/1562764)).
+- Pcmanfm crash on invalid path ([1562764](https://bugs.launchpad.net/ubuntu/+source/libfm/+bug/1562764)).
 
-- Light-locker-settings crash on startup ([1574544](https://pad.lv/1574544)).
+- Light-locker-settings crash on startup ([1574544](https://bugs.launchpad.net/ubuntu/+source/light-locker-settings/+bug/1574544)).
 
 ## Get Lubuntu
 Head over [here](lubuntu1604_downloads.md) to get it.
