@@ -5,7 +5,6 @@
 * Roll up accumulated stable updates into updated images to reduce download requirements for new deployments.
 * Maintain stability of existing installations.
 * Various bugs that required updates are rolled into this update.
-<hr>
 
 ## Lubuntu Applications
 
@@ -28,7 +27,7 @@ For local programs like LibreOffice and simple browsing habits, your computer ne
 __Processor (CPU)__
 <br>
 The minimum specification for CPU is Pentium 4 or Pentium M or AMD K8. Older processors are too slow and the AMD K7 has problems with Flash video.
-<hr>
+
 
 ## Ubuntu Release notes
 * For a full list of issues and features common to Ubuntu, please refer to the [Ubuntu release notes.](https://wiki.ubuntu.com/XenialXerus/ReleaseNotes)
@@ -52,7 +51,6 @@ ALL DESKTOP IMAGES NOW REQUIRE A DVD OR USB.
 
  All images require a DVD or USB. As a workaround, use the [server or netboot](https://help.ubuntu.com/community/Lubuntu/Alternate_ISO#CD_image) images.
 
-<hr>
 
 ## Fixed Bugs
 
@@ -78,4 +76,3 @@ Head over [here](lubuntu1604_downloads.md) to get it.
 
 ## Support
 3 years support (until April 2019)
-<br>
